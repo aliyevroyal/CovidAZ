@@ -209,4 +209,122 @@
     bottom: 0.2vh;
     cursor: pointer;
   }
+
+  .SuallarDivClass {
+    position: relative;
+    top: 0vh;
+    left: 0vw;
+    width: 100vw;
+    height: fit-content;
+  }
+
+  .TopAndBottomEmptyDivClass {
+    position: relative;
+    width: 100vw;
+    height: 1vh;
+  }
+
+  .SualDivClass {
+    position: relative;
+    width: 100vw;
+    height: 7vh;
+    border-bottom: 0.25px solid #434141;
+  }
+
+  .PlusIconImageClass {
+    position: absolute;
+    left: 10vw;
+    top: 1.5vh;
+    cursor: pointer;
+  }
+
+  .SualDivClass p {
+    position: absolute;
+    left: 20vw;
+    top: 1.75vh;
+    color: #434141;
+    font-size: 2.5vh;
+    opacity: 0.5;
+    cursor: pointer;
+  }
+
+  .CavabDivClass {
+    position: relative;
+    display: none;
+    left: 1.25vw;
+    width: 100vw;
+    height: auto;
+  }
+
+  .CavabDivClass p {
+    position: relative;
+    left: 10vw;
+    width: 80vw;
+    text-align: justify;
+    color: #434141;
+    opacity: 0.5;
+  }
+
+  .DontDoTheseDivClass {
+    position: relative;
+    left: 0vw;
+    top: 0vh;
+    width: 100vw;
+    height: 55vh;
+  }
+
+  .DontDoTheseGraphicsImageClass {
+    position: absolute;
+    top: 10vh;
+    left: 17.5vw;
+    width: 70vw;
+  }
+
+  .DontDoTheseDivClass p {
+    color: #434141;
+    opacity: 0.5;
+  }
+
+  .qayda1 {
+    position: absolute;
+    top: 9vh;
+    right: 5vw;
+    font-size: 1.8vh;
+  }
+
+  .qayda2 {
+    position: absolute;
+    top: 17.5vh;
+    right: 2.5vw;
+    font-size: 1.75vh;
+  }
+
+  .qayda3 {
+    position: absolute;
+    top: 41vh;
+    right: 3vw;
+    font-size: 1.8vh;
+  }
+
+  .qayda4 {
+    position: absolute;
+    top: 41vh;
+    left: 5vw;
+    font-size: 1.8vh;
+    width: 35vw;
+  }
+
+  .qayda5 {
+    position: absolute;
+    top: 17.5vh;
+    left: 2vw;
+    font-size: 1.8vh;
+  }
+
+  .qayda6 {
+    position: absolute;
+    top: 9vh;
+    left: 4vw;
+    font-size: 1.8vh;
+  }
 }
