@@ -275,7 +275,7 @@
 
   .DontDoTheseGraphicsImageClass {
     position: absolute;
-    top: 10vh;
+    top: 5vh;
     left: 17.5vw;
     width: 70vw;
   }
@@ -287,28 +287,28 @@
 
   .qayda1 {
     position: absolute;
-    top: 9vh;
+    top: 4vh;
     right: 5vw;
     font-size: 1.8vh;
   }
 
   .qayda2 {
     position: absolute;
-    top: 17.5vh;
+    top: 12.5vh;
     right: 2.5vw;
     font-size: 1.75vh;
   }
 
   .qayda3 {
     position: absolute;
-    top: 41vh;
+    top: 36vh;
     right: 3vw;
     font-size: 1.8vh;
   }
 
   .qayda4 {
     position: absolute;
-    top: 41vh;
+    top: 36vh;
     left: 5vw;
     font-size: 1.8vh;
     width: 35vw;
@@ -316,14 +316,14 @@
 
   .qayda5 {
     position: absolute;
-    top: 17.5vh;
+    top: 12.5vh;
     left: 2vw;
     font-size: 1.8vh;
   }
 
   .qayda6 {
     position: absolute;
-    top: 9vh;
+    top: 4vh;
     left: 4vw;
     font-size: 1.8vh;
   }
