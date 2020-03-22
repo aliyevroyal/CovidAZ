@@ -15,7 +15,7 @@
     height: 30vh;
     width: 8vw;
     top: 30vh;
-    border: 0.5vh solid #404354;
+    border: 0.5vh solid #3852F2;
     border-radius: 2vh;
     animation: rotateYourDeviceAnimation 1s ease-in-out infinite alternate;
   }
@@ -23,7 +23,7 @@
   .rotatePClass {
     position: relative;
     top: 31.8vh;
-    color: #404354;
+    color: #3852F2;
     font-size: 2.5vw;
   }
 
