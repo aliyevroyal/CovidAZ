@@ -161,4 +161,52 @@
   .ARSNButtonClass:focus, .KoronavirusButtonClass:focus {
     outline: none;
   }
+
+  .SualinizVarMobileContaineDivClass {
+    position: relative;
+    left: 0vw;
+    top: 0vh;
+    width: 100vw;
+    height: 8vh;
+  }
+
+  .SualinizVarDivClass {
+    position: absolute;
+    left: 10vw;
+    top: 1vh;
+    width: 80vw;
+    height: 7vh;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px 0px rgba(0.1, 0.1, 0.1, 0.1);
+  }
+
+  .SearchIconImageClass {
+    position: relative;
+    left: 2.5vw;
+    bottom: 0.25vh;
+    cursor: pointer;
+  }
+
+  .SualinizVarInputClass {
+    position: relative;
+    left: 2vw;
+    top: 0vh;
+    width: 61.9vw;
+    height: 6.8vh;
+    border: 0px;
+    text-indent: 5vw;
+  }
+
+  .SualinizVarInputClass:focus {
+    outline: none;
+  }
+
+  .GoButtonImageClass {
+    position: relative;
+    right: 0vw;
+    height: 7vh;
+    bottom: 0.2vh;
+    cursor: pointer;
+  }
 }
