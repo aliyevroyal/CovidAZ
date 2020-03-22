@@ -241,7 +241,7 @@
   .SualDivClass p {
     position: absolute;
     left: 15vw;
-    top: 1.75vh;
+    top: 2vh;
     color: #434141;
     font-size: 2.5vh;
     opacity: 0.5;
@@ -258,8 +258,8 @@
 
   .CavabDivClass p {
     position: relative;
-    left: 10vw;
-    width: 80vw;
+    left: 5vw;
+    width: 90vw;
     text-align: justify;
     color: #434141;
     opacity: 0.5;
