@@ -1,0 +1,71 @@
+/*........................................................................................................................................................................................*/
+/*Fonts*/
+@font-face {
+  font-family: BrandonText-Regular;
+  src: url("BrandonText-Regular.otf");
+}
+
+@font-face {
+  font-family: BrandonText-Medium;
+  src: url("BrandonText-Medium.otf");
+}
+
+@font-face {
+  font-family: BrandonText-Bold;
+  src: url("BrandonText-Bold.otf");
+}
+
+/*........................................................................................................................................................................................*/
+/*Everything*/
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: BrandonText-Regular;
+}
+
+/*........................................................................................................................................................................................*/
+/*Body*/
+body {
+  background-attachment: fixed;
+  background-color: #F9F9F9;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+/*........................................................................................................................................................................................*/
+/*HTML*/
+html {
+  scroll-behavior: smooth;
+}
+
+/*........................................................................................................................................................................................*/
+/*Hide All Div Elements*/
+.hideAllDivClass {
+  display: block;
+}
+
+/*........................................................................................................................................................................................*/
+/*Rotate Your Device Div Elements*/
+.rotateDeviceDivClass {
+  display: none;
+}
+
+.endingPreviousButtonClass {
+  position: absolute;
+  width: 0vw;
+  background-color: #404354;
+  color: #EEEDEE;
+  cursor: pointer;
+  border: 0;
+}
+
+.endingNextButtonClass {
+  position: absolute;
+  width: 0vw;
+  background-color: #404354;
+  color: #EEEDEE;
+  cursor: pointer;
+  border: 0;
+}
