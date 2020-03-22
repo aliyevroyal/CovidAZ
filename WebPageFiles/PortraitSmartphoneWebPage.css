@@ -287,14 +287,14 @@
 
   .qayda1 {
     position: absolute;
-    top: 4vh;
+    top: 3vh;
     right: 5vw;
     font-size: 1.8vh;
   }
 
   .qayda2 {
     position: absolute;
-    top: 12.5vh;
+    top: 12vh;
     right: 2.5vw;
     font-size: 1.75vh;
   }
@@ -316,14 +316,14 @@
 
   .qayda5 {
     position: absolute;
-    top: 12.5vh;
+    top: 10vh;
     left: 2vw;
     font-size: 1.8vh;
   }
 
   .qayda6 {
     position: absolute;
-    top: 4vh;
+    top: 3vh;
     left: 4vw;
     font-size: 1.8vh;
   }
