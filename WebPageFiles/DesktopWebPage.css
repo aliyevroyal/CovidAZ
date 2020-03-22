@@ -280,41 +280,41 @@
     position: absolute;
     top: 1vh;
     right: 7vw;
-    font-size: 2.25vh;
+    font-size: 1.8vh;
   }
 
   .qayda2 {
     position: absolute;
     top: 16vh;
     right: 1vw;
-    font-size: 2.25vh;
+    font-size: 1.8vh;
   }
 
   .qayda3 {
     position: absolute;
     top: 37.5vh;
     right: 2.5vw;
-    font-size: 2.25vh;
+    font-size: 1.8vh;
   }
 
   .qayda4 {
     position: absolute;
     top: 30vh;
     left: 1.25vw;
-    font-size: 2.25vh;
+    font-size: 1.8vh;
   }
 
   .qayda5 {
     position: absolute;
     top: 12.5vh;
     left: 5vw;
-    font-size: 2.25vh;
+    font-size: 1.8vh;
   }
 
   .qayda6 {
     position: absolute;
     top: 1vh;
     left: 7vw;
-    font-size: 2.25vh;
+    font-size: 1.8vh;
   }
 }
