@@ -1,3 +1,13 @@
+var KoronavirusButtonId = document.getElementById("KoronavirusButtonId");
+KoronavirusButtonId.addEventListener("click", function () {
+    window.open("https://koronavirusinfo.az/");
+});
+
+var ARSNButtonId = document.getElementById("ARSNButtonId");
+ARSNButtonId.addEventListener("click", function(){
+  window.open("http://health.gov.az/");
+});
+
 $(document).ready(function() {
   $("#sual1").click(function() {
     $("#cavab1").fadeToggle();

@@ -72,6 +72,10 @@
     border: 0px;
   }
 
+  .SualinizVarInputClass:focus {
+    outline: none;
+  }
+
   .GoButtonImageClass {
     position: absolute;
     right: 0vw;
